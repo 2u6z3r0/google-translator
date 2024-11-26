@@ -1,4 +1,4 @@
-This is a fork from zijiren233/google-translator
+This is a fork from [zijiren233/google-translator](https://github.com/zijiren233/google-translator)
 # google-translater
 
 ```go
